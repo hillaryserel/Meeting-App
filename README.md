@@ -22,23 +22,23 @@ Contributions are always welcome!
 
 **Homepage**
 
-![App Screenshot](https://github.com/geeksforgeeksorg/Meeting-Application/blob/main/screenshots/homepage-meeting-application-project.png?raw=true)
+![App Screenshot]()
 
 **Login Page**
 
-![App Screenshot](https://github.com/geeksforgeeksorg/Meeting-Application/blob/main/screenshots/login-page-meeting-application.png?raw=true)
+![App Screenshot]()
 
 **Signup Page**
 
-![App Screenshot](https://github.com/geeksforgeeksorg/Meeting-Application/blob/main/screenshots/signup-page-meeting-application.png?raw=true)
+![App Screenshot]()
 
 **Meeting Page of Host**
 
-![App Screenshot](https://github.com/geeksforgeeksorg/Meeting-Application/blob/main/screenshots/meeting-page-of-host.png?raw=true)
+![App Screenshot]()
 
 **Meeting Page of Joiner**
 
-![App Screenshot](https://github.com/geeksforgeeksorg/Meeting-Application/blob/main/screenshots/meeting-page-of-joiner.png?raw=true)
+![App Screenshot]()
 
 
 ## Authors
