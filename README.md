@@ -43,5 +43,5 @@ Contributions are always welcome!
 
 ## Authors
 
-- [@saurabhjais](https://www.github.com/saurabhjais)
+- [@hillary](https://www.github.com/hillaryserel)
 
