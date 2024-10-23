@@ -4,7 +4,6 @@ let jwt = require("jsonwebtoken");
 let bcrypt = require("bcrypt");
 require("dotenv").config;
 
-
 let home = async (req, res) => {
     let db = _db.getDb();
     let userId = req.userId;
